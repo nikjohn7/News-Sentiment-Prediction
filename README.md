@@ -60,6 +60,8 @@ Here I created a custom pipeline used Scikit-learn's `TransformerMixin` and used
 - In this project I have used the 50-dimensional data.
 - When used with a BiLSTM, the results seem to be better than Bag-of-Words and Tf-Idf vectorization methods.
 
+In order to get a continuous valued output between -1 and 1, I used **Mean squared error** as the loss function for my network, and I used a **custom activation function** in the output layer of my network. 
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
