@@ -12,7 +12,7 @@ This data set is tailored for evaluative comparisons in predictive analytics tas
 
 The dataset contains news headlines and their respective information. They include
 - Facebook news
-- Google-Plus news
+- Google+ news
 - Linkedln news
 
 The attributes for each of the tables are : 
